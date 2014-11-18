@@ -5,10 +5,10 @@ JUNIT
 ---------------------
 * Lancer les tests JUNIT et vérifier que vous avez bien un test qui fonctionne.
 * A l’aide de JUnit, compléter la classe de test ArticleDAOImplMemoryTest pour que les 5 tests passe au vert
-* Créer une classe de test pour chacun des DAO développé ci-dessus. (Toutes les possibilités doivent être testées, y compris, validation de paramètres, exceptions, etc...). Les tests resterons rouges, car les classes testés ne sont pas implementer.
-* Implemennter certaine classe pour faire passer les tests au vert pour ArticleDAO.
+* Implementer les méthodes de ArticleDAOMemory pour faire passer les tests au vert pour ArticleDAOMemory.
 * Vérifier à l’aide d’Emma que l’ensemble des cas sont couverts (http://www.eclemma.org/installation.html).
 * Compléter vos tests si besoin
+* Fait de même pour les autres DAO.
 
 
 Mockito 
