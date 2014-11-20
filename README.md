@@ -15,7 +15,7 @@ Mockito
 -------------------
 Ajouter la dépendance à Mockito (scope test).
     
-On décide à présent d’implémenter ManqueManger, ce service s’appuie sur les DAO précédemment développés. On décide de tester ce service (commencer par la méthode addClient)à l’aide de mocks.
+On décide à présent d’implémenter MagasinManager, ce service s’appuie sur les DAO précédemment développés. On décide de tester ce service (commencer par la méthode addClient)à l’aide de mocks.
 On va donc écrire une test qui s’appuie sur Mockito : qui crée les mocks des DAO et les injecte (dans une méthode @Before)
 
 Aide : http://blog.soat.fr/2013/07/mockito-ou-comment-faciliter-lecriture-de-tests-unitaires/
